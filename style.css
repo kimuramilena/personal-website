@@ -1,0 +1,137 @@
+/* Body */
+body{
+    text-align: center;
+    margin:0;
+}
+p, ul, footer{
+    font-family: 'Montserrat', sans-serif;
+}
+/* TOP */
+h1{
+    font-family: 'Bad Script', cursive;
+    font-size: 5rem;
+    color:white;
+    margin: 0;
+}
+h2{
+    color: #E49393;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.3rem;
+    margin-top: 50px;
+}
+h4{
+    margin: 100px 0 130px 0
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 4%;
+    color:#408E91;
+}
+.top-container {
+    background-color:#245953;
+    padding:120px 100px 0 100px;
+    top:50px;
+    font-family: 'Bad Script', cursive;
+    font-size:2rem;
+    color:white;
+}
+.dev{
+    text-decoration: underline;
+}
+.top-cloud{
+    position:absolute;
+    height:150px;
+    width: 150px;
+    margin-top:20px;
+    margin-left: -200px;
+}
+.middle-cloud{
+    position: absolute;
+    height:200px;
+    width: 200px;
+    margin-top:70px;
+    margin-left:400px;
+}
+.bottom-cloud{
+    position: absolute;
+    height:100px;
+    margin-left: 100px;
+    margin-bottom: 500px;
+
+}
+.mount-fuji {
+    position: relative;
+}
+
+/* MIDDLE */
+
+#intro-mid-cont{
+font-size: 3rem;
+font-family:'Bad Script', cursive;
+color: #E49393;
+}
+.profile-picture{
+    border-radius: 50%;
+    height: 350px;
+    margin-top: 50px;
+}
+.middle-container{
+    background-color: #D8D8D8;
+}
+.mid-cont-p {
+padding: 0 300px 10px 300px;
+font-size: 1.2rem;
+}
+.myskills1 {
+  color:#E49393;
+  font-size: large;
+  padding:60px;
+  margin-left: -800px;
+}
+.myskills2{
+    color:#E49393;
+    font-size: large;
+    padding: 0 0 60px 0;
+    margin-left: 800px;
+  }
+  .myskills3{
+    color:#E49393;
+    font-size: large;
+    padding: 0 0 60px 0;
+    margin-left: -800px;
+  }
+  .myskills4{
+    color:#E49393;
+    font-size: large;
+    padding: 0 0 60px 0;
+    margin-left: 800px;
+  }
+  .myskills5{
+    color:#E49393;
+    font-size: large;
+    padding: 0 0 60px 0;
+    margin-left: -800px;
+  }
+  .myskills-img {
+    height: 200px;
+  }
+
+  /* BOTTOM */
+  .bottom-container {
+    background-color: #245953;
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    padding: 40px 0 10px 0;
+    font-size: 1.3rem;
+  }
+ .bot-cont-p {
+    color:#408E91;
+    font-size: 1.4rem;
+    font-family: 'Montserrat', sans-serif;
+ }
+ footer{
+    font-size: .9rem;
+ }
+
