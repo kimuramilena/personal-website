@@ -1,2 +1,4 @@
-# html-portfolio
-My first Github upload! HTML-Portfolio
+# personal-website
+My first personal website
+
+https://kimuramilena.github.io/personal-website/
