@@ -122,7 +122,8 @@ h2 {
   }
  /* ABOUT */
  .description-about{
-    margin: 1em 3em;
+    text-align: justify;
+    margin: 1em 1em;
  }
  .container-about{
     width: 80%;
@@ -134,8 +135,12 @@ h2 {
  }
  .list-about{
     list-style-type: none;
+    padding: 0;
+    text-align: justify;
  }
-
+ .p-about{
+    text-align: justify;
+}
  li {
     margin-bottom: 20px;
 }
