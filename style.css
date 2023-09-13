@@ -38,7 +38,7 @@ h4 {
 }
 
 .top-container {
-    height: 100vh;
+    padding-bottom: 5em;
     background-color:#245953;
     text-align: center;
 }
